@@ -1,0 +1,35 @@
+form{
+    background-color: hsl(34, 26%, 64%);
+text-align: center;
+ margin: auto;
+box-shadow: 5px 5px 3px hsl(199, 10%, 32%);
+padding: 25px;
+max-width: 350px;
+border-radius: 10px;
+}
+body{
+    background-color: lab(100% 0.01 -0.01);
+    text-align: center;
+}
+h2{
+    color:aqua;
+}
+button{
+    background-color: rgb(95, 11, 11);
+    color: white;
+    padding:10px 15px;
+    cursor:pointer;
+    border-radius: 10px;
+    font-size:1.5em;
+}
+button:hover{
+    background-color: rgb(226, 43, 174);
+}
+#p1{
+    font-size:1.5em;
+    font-weight: bold;
+}
+label{
+    font-weight: bold;
+}
+
